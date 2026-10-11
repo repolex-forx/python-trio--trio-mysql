@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/python-trio/trio-mysql/commit/34812ab35477f46d322876a2ab037e4f5c086a46",
       "git:hexsha": "34812ab35477f46d322876a2ab037e4f5c086a46",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.10.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.10.1",
+      "repolex:parsedAt": "2026-10-11T01:33:12.791430+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-trio/trio-mysql/commit/2b7d46b003dc56953cbbbbfebf200641da4c8b39",
